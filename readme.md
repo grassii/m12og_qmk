@@ -1,4 +1,4 @@
-# Matrix 8XV1.2 OG keyboard
+# Matrix 8XV1.2 OG Custom Keymap
 
 ![Matrix 8XV1.2 OG](https://raw.githubusercontent.com/yulei/qmk_webusb_tool/master/public/m12og.jpg)
 
@@ -11,6 +11,6 @@ and DO NOT support the 8XV1.2 OG ANSI only version.
 
 Make example for this keyboard (after setting up your build environment):
 
-    make matrix/m12og:default
+    make matrix/m12og:wkl_led
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
